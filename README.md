@@ -18,7 +18,7 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 
 ### Social media
 
-![https://www.instagram.com/abyan_mage/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abyan_mage/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical)
