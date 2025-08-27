@@ -24,6 +24,9 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyan29&show_icons=true&theme=radical)
 
+###
+
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
 
+###
 ---
