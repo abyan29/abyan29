@@ -2,7 +2,7 @@
 
 Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
 
-![halo bang](img/gojo.gif)
+![halo bang](img/hacker.gif)
 - 🌱 Saat ini sedang belajar **Django** & **Flutter**  
 - 💡 Tertarik dengan **Web Development, dan Mobile Development**  
 - 🚀 Sedang membangun aplikasi e-commerce menggunakan Django
