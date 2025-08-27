@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Halo, saya Muhammad Abyan Dampang  
 
-<!--
-**abyan29/abyan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
 
-Here are some ideas to get you started:
+![halo bang](img/gojo.gif)
+- 🌱 Saat ini sedang belajar **Django** & **Flutter**  
+- 💡 Tertarik dengan **Web Development, dan Mobile Development**  
+- 🚀 Sedang membangun aplikasi e-commerce menggunakan Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### Social media
+
+![https://www.instagram.com/abyan_mage/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyan29&show_icons=true&theme=radical)
+
+---
