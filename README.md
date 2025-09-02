@@ -1,9 +1,9 @@
-## 👋 Halo, saya Muhammad Abyan Dampang  
+# 👋 Halo, saya Muhammad Abyan Dampang 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer" alt="Typing SVG" />
 </div>
-
+#
 
 Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
 
@@ -12,7 +12,7 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 - 💡 Tertarik dengan **Web Development, dan Mobile Development**  
 - 🚀 Sedang membangun aplikasi e-commerce menggunakan Django
 
-### Skills
+# Skills
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -23,8 +23,9 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### Social media
+# Social media
 
+#
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abyan_mage/)
 
 
@@ -33,5 +34,5 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
 
-###
+#
 ---
