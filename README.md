@@ -31,9 +31,9 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 
 <div align="center" >
   <img src="img/roblox.png" width="120">
+  <br>
+  <strong>roblox: abyan999</strong>
 </div>
-
-**roblox: abyan999**
 
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
 
