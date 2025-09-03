@@ -4,15 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer" alt="Typing SVG" />
 </div>
 
-#
-
 Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
 
-<div align="center">
-  <img src="img/roblox.png">
-</div>
-
-**roblox: abyan999**
 - 🌱 Saat ini sedang belajar **Django** & **Flutter**  
 - 💡 Tertarik dengan **Web Development, dan Mobile Development**  
 - 🚀 Sedang membangun aplikasi e-commerce menggunakan Django
@@ -36,7 +29,14 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyan29&show_icons=true&theme=radical)
 
+<div align="center" >
+  <img src="img/roblox.png" width="120">
+</div>
+
+**roblox: abyan999**
+
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
+
 
 #
 ---
