@@ -8,7 +8,9 @@
 
 Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
 
-![halo bang](img/roblox.png)
+<div align="center">
+  <img src="img/roblox.png">
+</div>
 
 **roblox: abyan999**
 - 🌱 Saat ini sedang belajar **Django** & **Flutter**  
