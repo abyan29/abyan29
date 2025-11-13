@@ -23,7 +23,7 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **
 
 # Social media
 
-[![instagram](https://www.instagram.com/abyan_jungle/)
+[![instagram](https://www.instagram.com/abyan_jungle/)]
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical)
