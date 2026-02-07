@@ -4,13 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Gaming" alt="Typing SVG" />
 </div>
 
-<<<<<<< HEAD
-Seorang mahasiswa Informatika yang tertarik di bidang **Web Development** dan **Mobile Apps**.
+Seorang mahasiswa Informatika yang tertarik di bidang **Web Development**.
 
-- 🌱 Saat ini sedang belajar **Django** & **Flutter**  
-- 💡 Tertarik dengan **Web Development, dan Mobile Development**  
-- 🚀 Sedang membangun aplikasi e-commerce menggunakan Django
->>>>>>> 68320932afbde1cec8098b6707f095e6ceabf8e5
+- 🌱 Saat ini sedang belajar **Django** & **Laravel**  
+- 💡 Tertarik dengan **Web Development** 
 
 # Skills
 <p>
