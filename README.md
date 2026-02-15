@@ -24,12 +24,6 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development**.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abyan_jungle/)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyan29&layout=compact&theme=radical&cache_seconds=3600)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyan29&show_icons=true&theme=radical&cache_seconds=3600)
-
-
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
 
 
