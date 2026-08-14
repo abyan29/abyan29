@@ -18,8 +18,6 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development**.
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <div style="display: flex; gap: 2px; align-items: center;">
       <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
-      <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-      <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
     <div>
 </p>
 
