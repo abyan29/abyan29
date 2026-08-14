@@ -16,6 +16,11 @@ Seorang mahasiswa Informatika yang tertarik di bidang **Web Development**.
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <div style="display: flex; gap: 2px; align-items: center;">
+      <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" />
+      <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+      <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+    <div>
 </p>
 
 # Social media
