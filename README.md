@@ -6,14 +6,15 @@
 
 Seorang mahasiswa Informatika yang tertarik di bidang **Web Development**.
 
-- 🌱 Saat ini sedang belajar **Django** & **Laravel**  
-- 💡 Tertarik dengan **Web Development** 
+Saat ini sedang belajar **Laravel**  
+Tertarik dengan **Web Development** 
 
 # Skills
 <p>
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <div style="display: flex; gap: 2px; align-items: center;">
