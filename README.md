@@ -19,7 +19,13 @@
 
 # Social media
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abyan_d_29/)
+<p>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/muhammad-abyan-dampang-64292832a/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </p>
+</p>
 
 <img src="https://raw.githubusercontent.com/abyan29/abyan29/output/snake.svg" alt="Snake animation" />
 
